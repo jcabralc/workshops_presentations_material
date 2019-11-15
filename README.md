@@ -9,5 +9,17 @@ PyLadies São Paulo MeetUp https://www.meetup.com/pt-BR/PyLadiesSP <br>
 PyLadies São Paulo Github https://github.com/PyLadiesSP
 
  1. **[Introdução ao Processamento de Linguagem Natural usando Python](https://github.com/jcabralc/workshops_presentations_material/tree/master/Intro_NLP_Python)**
-      - *May 18, 2018*
+      - *May 18, 2019*
      
+<br>    
+<img src="https://www.fatecmogidascruzes.com.br/images/logo_colorido.svg" data-canonical-src="https://www.fatecmogidascruzes.com.br/images/logo_colorido.svg" />
+
+# FATEC Mogi das Cruzes
+
+FATEC Mogi das Cruzes website https://www.fatecmogidascruzes.com.br/ <br>
+
+ 1. **[De Analista à Cientista](https://github.com/jcabralc/workshops_presentations_material/tree/master/Intro_NLP_Python)**
+      - *February, 2019*
+ 2. **[Prevendo a venda de carros no Brasil - A verdade sobre um projeto de
+Machine Learning](https://github.com/jcabralc/workshops_presentations_material/tree/master/Intro_NLP_Python)**
+      - *November, 2019*
